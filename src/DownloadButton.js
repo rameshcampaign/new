@@ -3,7 +3,7 @@ import React from 'react';
 function DownloadButton() {
   return (
     <div>
-      <a href="assets/rameshres.pdf" download>
+      <a href="assets/rameshresume.pdf" download>
         <button className="btn btn-primary">Download Cv</button>
       </a>
     </div>
